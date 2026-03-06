@@ -30,11 +30,10 @@ A classe de testes verifica três cenários principais:
 
 Abra o projeto em uma IDE Java (ex: Eclipse ou IntelliJ)
 Localize a classe:
-CodigoPessoaFisicaTeste.java
-Execute como:
-Run As → JUnit Test
-ou execute a suíte:
-SuiteTeste.java
+
+- CodigoPessoaFisicaTeste.java
+- Execute como:
+- Run As → JUnit Test ou execute a suíte: SuiteTeste.java
 
 📊 Resultado dos testes
 
