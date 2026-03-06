@@ -1,4 +1,4 @@
-Java JUnit – CPF Validator | CHECKPOINT 01 
+### Java JUnit – CPF Validator | CHECKPOINT 01 
 
 Projeto desenvolvido em Java para validar números de CPF utilizando testes unitários com JUnit 5.
 Este projeto foi criado como parte de um desafio acadêmico para praticar Testes Unitários, garantindo que os métodos da classe fornecida funcionem corretamente.
